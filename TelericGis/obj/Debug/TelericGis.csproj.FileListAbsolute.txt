@@ -205,6 +205,7 @@ D:\gis\TelericGis\bin\ko\System.Spatial.resources.dll
 D:\gis\TelericGis\bin\ru\System.Spatial.resources.dll
 D:\gis\TelericGis\bin\zh-Hans\System.Spatial.resources.dll
 D:\gis\TelericGis\bin\zh-Hant\System.Spatial.resources.dll
-D:\gis\TelericGis\obj\Debug\TelericGis.csprojResolveAssemblyReference.cache
 D:\gis\TelericGis\obj\Debug\TelericGis.dll
 D:\gis\TelericGis\obj\Debug\TelericGis.pdb
+D:\gis\TelericGis\bin\EntityFramework.SqlServer.dll
+D:\gis\TelericGis\bin\EntityFramework.SqlServer.xml
